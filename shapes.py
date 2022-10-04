@@ -18,6 +18,7 @@ arcade.draw_arc_outline(980, 700, 200, 100, arcade.color.AO, -180,0,9)
 arcade.draw_parabola_filled(800,300,1000,275, arcade.color.BLACK)
 arcade.draw_parabola_outline(950,300,1000, 150, arcade.color.ENGLISH_RED, 11)
 
+
 arcade.finish_render()
 
 arcade.run()
